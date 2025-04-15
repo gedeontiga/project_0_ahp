@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application helps users select the optimal smartphone based on their preferences using the Analytic Hierarchy Process (AHP) methodology. The Smart Phone Selector breaks down complex smartphone selection decisions into manageable comparisons of different criteria such as memory, storage, CPU frequency, price, and brand preference.
+This application helps users select the optimal smartphone based on their preferences using the Analytic Hierarchy Process (AHP) methodology. The Smart Phone Selector breaks down complex smartphone selection_decisions into manageable comparisons of different criteria such as memory, storage, CPU frequency, price, and brand preference.
 
 ## Features
 
@@ -14,11 +14,11 @@ This application helps users select the optimal smartphone based on their prefer
 
 ## Screenshots
 
-![Application Interface](images/Capture d’écran du 2025-04-15 23-33-04.png)
-![Application Interface](images/Capture d’écran du 2025-04-15 23-33-17.png)
-![Results Dashboard](images/Capture d’écran du 2025-04-15 23-33-32.png)
-![Results Dashboard](images/Capture d’écran du 2025-04-15 23-33-53.png)
-![Results Dashboard](images/Capture d’écran du 2025-04-15 23-34-02.png)
+![Application Interface](images/1.png)
+![Application Interface](images/2.png)
+![Results Dashboard](images/3.png)
+![Results Dashboard](images/4.png)
+![Results Dashboard](images/5.png)
 
 ## How It Works
 
@@ -27,7 +27,7 @@ The application implements the Analytic Hierarchy Process through these steps:
 1. **Define Alternatives & Criteria**: Select from pre-loaded smartphones and evaluation criteria
 2. **Set Criteria Preferences**: Use pairwise comparisons to establish relative importance
 3. **Analyze Specifications**: Review technical specifications of each phone
-4. **Calculate Scores**: Process the data using AHP mathematical model
+4. **Calculate Scores**: Process the_data using AHP mathematical model
 5. **Generate Recommendations**: View ranked results with visual indicators
 
 ## Installation
@@ -42,8 +42,8 @@ The application implements the Analytic Hierarchy Process through these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smartphone-ahp-analyzer.git
-cd smartphone-ahp-analyzer
+git clone https://github.com/gedeontiga/project_0_ahp.git
+cd project_0_ahp
 
 # Install required packages
 pip install -r requirements.txt
@@ -79,7 +79,7 @@ After clicking "Calculate," you'll see:
 - **Criteria Weights**: Visual representation of how important each criterion is
 - **Scores Table**: Detailed breakdown of how each phone performs
 - **Top 3 Visualization**: Highlighted presentation of the best options
-- **Recommendation**: Summary with percentage difference between top choices
+- **Recommendation**: Summary with percentage_difference between top choices
 
 ### 4. Reset or Refine
 
@@ -102,4 +102,4 @@ Use the Reset button to start over, or adjust your criteria preferences and reca
 
 ---
 
-Created with Python and PyQt5, powered by the Analytic Hierarchy Process developed by Thomas L. Saaty.
+By AMBOMO TIGA GÉDÉON 21T2496
